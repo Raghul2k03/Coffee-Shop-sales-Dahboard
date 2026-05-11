@@ -104,7 +104,7 @@ The repository contains the following files:
 
 ## 10. Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](https://github.com/Raghul2k03/Coffee-Shop-sales-Dahboard/blob/main/Coffee%20shop%20dashboard.png)
 
 ---
 
