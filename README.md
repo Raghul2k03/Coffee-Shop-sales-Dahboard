@@ -108,6 +108,14 @@ The repository contains the following files:
 
 ---
 
+## 🔗 Live Dashboard Link
+
+Click below to view the interactive Excel Dashboard:
+
+[View Excel Dashboard](https://1drv.ms/i/c/4d7dadc16e8b081f/IQDPtpMbCu-QQbZ0G20M-m94AbXp_XHqmjY4ls9IZP28BME?e=I7onfL)
+
+---
+
 ## 11. Project Outcome
 This project demonstrates how Excel can be used to create professional business intelligence dashboards for sales analysis and decision-making.
 
@@ -132,6 +140,4 @@ This project showcases the following skills:
 
 ---
 
-## 13. Author
-### Raghul P  
-Aspiring Data Analyst | Power BI Developer
+
