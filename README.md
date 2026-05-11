@@ -108,7 +108,7 @@ The repository contains the following files:
 
 ---
 
-## 🔗 Live Dashboard Link
+## 11.🔗 Live Dashboard Link
 
 Click below to view the interactive Excel Dashboard:
 
@@ -116,7 +116,7 @@ Click below to view the interactive Excel Dashboard:
 
 ---
 
-## 11. Project Outcome
+## 12. Project Outcome
 This project demonstrates how Excel can be used to create professional business intelligence dashboards for sales analysis and decision-making.
 
 The dashboard helps in:
@@ -127,7 +127,7 @@ The dashboard helps in:
 
 ---
 
-## 12. Skills Demonstrated
+## 13. Skills Demonstrated
 This project showcases the following skills:
 
 - Data Cleaning  
