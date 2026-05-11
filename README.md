@@ -1,4 +1,4 @@
-# Coffee-Shop-sales-Dahboard
+# Coffee-Shop-sales-Dashboard
 # ☕ Coffee Shop Sales Dashboard | Excel Project
 
 ## 1. Project Overview
